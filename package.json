@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "name": "sesi-http",
+  "version": "1.0.0",
+  "description": "\"# SESI-HTTP\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ana-legal/SESI-HTTP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ana-legal/SESI-HTTP/issues"
+  },
+  "homepage": "https://github.com/ana-legal/SESI-HTTP#readme"
+}
